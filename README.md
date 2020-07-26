@@ -1,6 +1,6 @@
 
 # Git_Docs
-This Repository contains detailed information about git commands and their use cases.
+This Repository explains about Git Rebase concepts like Interactive rebase feature the Squashing, Deleting, Reordering the commits.
 
 ## GIT REBASE USECASES:
 
